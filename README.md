@@ -4,7 +4,7 @@ This repository contains documentation for the preservation project, including g
 
 ## Documentation
 
-* [CD/DVD Disc Images \& Copy Protection FAQ](docs/cd-dvd-copy-protection-faq.md)  
+* [CD/DVD Disc Images \& Copy Protection FAQ](cd-dvd-copy-protection-faq.md)  
 Explains the disc image formats used in the CD/DVD collections, copy-protection types, the **CP** column, virtual drive compatibility, and modern compatibility tools for older protected software.
 
 ## About This Repository
