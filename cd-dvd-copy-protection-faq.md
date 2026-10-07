@@ -117,7 +117,7 @@ In the table below, **Standard Image** means the BIN/CUE supplied for a CD or th
 **Yes** means the standard image will generally contain what the protection needs. **Sometimes** means it depends on the title, protection version, and virtual-drive software. **No** means another image format or compatibility method is normally required.
 
 | Protection | Version or type | Standard image normally enough to run? | Preferred additional image | Can the standard CD image normally be burned and retain the protection? | Notes |
-|---|---|---:|---|---:|---|
+|---|---|---|---|---|---|
 | **Bitpool** | Standard | Sometimes | Usually none | Sometimes | Bitpool relies on deliberately unusual or error-containing CD sectors. A normal burn program may repair those sectors while writing. RAW-capable writing may be required. |
 | **Bitpool & Rings** | Combined protection | No | No universally reliable replacement | No | The physical ring is the limiting factor. |
 | **CD Lock** | Standard | Usually | Usually none | Usually | Most CD Lock discs can be represented as a normal CD image, although unusual track layouts and oversized or dummy files can complicate copying. |
