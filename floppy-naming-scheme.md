@@ -16,7 +16,6 @@ All fields except **Name** are optional. Parentheses and square brackets shown i
 | **Variant** | Title variant, edition, display mode, or system-specific release. Examples include EGA, VGA, 16 Color, Enhanced, Tandy, and PCjr. |
 | **Platform** | Hardware platform, operating environment, or boot/runtime type required by the release. Examples include Booter, C64, IBM PC, Win3.1, and Win2.1. |
 | **Year** | Release date for this specific image or release, not necessarily the copyright year. Dates may be written as `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`. More specific dates are used when needed to distinguish between multiple releases. |
-| **System** | Specific hardware system required by the title. Examples include Tandy and PCjr. This identifies a system-specific release, not a general display or sound mode. |
 | **Version** | Version, revision, or release number. |
 | **Alt** | Literal tag indicating an alternate release. This appears as `(Alt)`. |
 | **Region** | Region of release. Examples include Europe, UK, France, Germany, Spain, Italy, etc. USA is the default and is not shown unless needed to distinguish a release. |
