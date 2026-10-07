@@ -1,3 +1,8 @@
+---
+title: CD/DVD Disc Images & Copy Protection FAQ
+permalink: /cd-dvd-copy-protection-faq/
+---
+
 # CD/DVD Disc Images & Copy Protection FAQ
 
 This collection contains archival images of original PC CD-ROM and DVD-ROM releases. Some discs use copy protection that depends on information which cannot be stored in an ordinary disc image.
