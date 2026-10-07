@@ -84,7 +84,7 @@ When the CP column contains a **disc-image download icon instead of a code**, an
 The codes currently used are:
 
 | Code | Protection |
-|---|---|
+|:---|:---|
 | **LL** | LaserLok |
 | **SD** | SafeDisc or SafeDisc Lite |
 | **SR** | SecuROM or SecuROM Product Activation |
