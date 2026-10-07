@@ -7,6 +7,8 @@ This repository contains documentation for the preservation project, including g
 * [CD/DVD Disc Images \& Copy Protection FAQ](cd-dvd-copy-protection-faq.md)  
 Explains the disc image formats used in the CD/DVD collections, copy-protection types, the **CP** column, virtual drive compatibility, and modern compatibility tools for older protected software.
 
+* [Floppy Naming Scheme](floppy-naming-scheme.md)
+
 ## About This Repository
 
 The documentation in this repository is intended to accompany preserved software collections hosted on [Archive.org](https://archive.org/).
