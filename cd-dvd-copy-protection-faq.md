@@ -166,7 +166,7 @@ A **virtual drive** makes a disc-image file appear to Windows as though a real C
 An important distinction is that **supporting an image format is not the same thing as supporting its copy protection**. A program may successfully open an MDS file, for example, but still fail to reproduce the particular physical-disc behavior that the game is checking.
 
 | Virtual drive | BIN/CUE | ISO | CloneCD | MDS/MDF | Best use |
-|---|---:|---:|---:|---:|---|
+|---|:---:|:---:|:---:|:---:|---|
 | **DAEMON Tools** | Yes | Yes | Yes | **Yes** | One of the better choices for copy-protected images, especially MDS/MDF. |
 | **Alcohol 52% / 120%** | Yes | Yes | Yes | **Yes** | Another strong choice for protected images, particularly MDS/MDF and protections based on physical-disc measurements. |
 | **WinCDEmu** | Yes | Yes | Yes | Yes | Excellent free general-purpose mounting software, but being able to open the format does not guarantee that advanced copy protection will work. |
