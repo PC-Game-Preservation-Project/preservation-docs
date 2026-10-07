@@ -1,8 +1,3 @@
----
-title: CD/DVD Disc Images & Copy Protection FAQ
-permalink: /cd-dvd-copy-protection-faq/
----
-
 # CD/DVD Disc Images & Copy Protection FAQ
 
 This collection contains archival images of original PC CD-ROM and DVD-ROM releases. Some discs use copy protection that depends on information which cannot be stored in an ordinary disc image.
@@ -200,7 +195,7 @@ Community compatibility projects now exist for several of these older systems.
 
 Instead of reinstalling the old SafeDisc driver, it intercepts the game's requests to that driver and supplies the expected responses. Its normal mode still expects the original disc or a suitable mounted image.
 
-<a href="https://github.com/RibShark/SafeDiscShim" target="_blank">SafeDiscShim on GitHub</a>
+[SafeDiscShim on GitHub](https://github.com/RibShark/SafeDiscShim)
 
 ## SafeDiscLoader2
 
@@ -208,7 +203,7 @@ Instead of reinstalling the old SafeDisc driver, it intercepts the game's reques
 
 Unlike SafeDiscShim's original-disc-oriented approach, SafeDiscLoader2 can handle the SafeDisc check itself and therefore does not necessarily require the protected disc to remain mounted.
 
-<a href="https://github.com/nckstwrt/SafeDiscLoader2" target="_blank">SafeDiscLoader2 on GitHub</a>
+[SafeDiscLoader2 on GitHub](https://github.com/nckstwrt/SafeDiscLoader2)
 
 ## SecuROMLoader
 
@@ -216,7 +211,7 @@ Unlike SafeDiscShim's original-disc-oriented approach, SafeDiscLoader2 can handl
 
 It supports multiple generations of SecuROM and is intended to allow older legally owned games to run on modern versions of Windows without depending on the original obsolete DRM environment.
 
-<a href="https://github.com/nckstwrt/SecuROMLoader" target="_blank">SecuROMLoader on GitHub</a>
+[SecuROMLoader on GitHub](https://github.com/nckstwrt/SecuROMLoader)
 
 Because compatibility varies between SecuROM versions and individual games, check the project's tested-game list and documentation if a title does not work immediately.
 
@@ -226,7 +221,7 @@ Because compatibility varies between SecuROM versions and individual games, chec
 
 It does **not** directly replace active protections such as SafeDisc or SecuROM, but it can handle ordinary disc checks and several passive protection systems, including **Bitpool**.
 
-<a href="https://github.com/Luca1991/DiscCheckEmu" target="_blank">DiscCheckEmu on GitHub</a>
+[DiscCheckEmu on GitHub](https://github.com/Luca1991/DiscCheckEmu)
 
 Pre-made configurations for supported games are available from the project's companion DCEConfigs repository.
 
