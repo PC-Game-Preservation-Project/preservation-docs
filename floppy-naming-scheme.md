@@ -1,4 +1,4 @@
-# File Naming Scheme
+# Floppy Image Naming Scheme
 
 ## General Format
 
