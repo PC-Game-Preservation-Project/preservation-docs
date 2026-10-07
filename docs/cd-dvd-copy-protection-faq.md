@@ -1,6 +1,7 @@
 ---
 title: CD/DVD Disc Images & Copy Protection FAQ
 permalink: /cd-dvd-copy-protection-faq/
+layout: null
 ---
 
 # CD/DVD Disc Images & Copy Protection FAQ
