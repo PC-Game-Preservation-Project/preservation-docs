@@ -11,7 +11,7 @@ All fields except **Name** are optional. Parentheses and square brackets shown i
 ## Fields
 
 | Field | Description |
-|---|---|
+|:---|:---|
 | **Name** | Software title. |
 | **Variant** | Title variant, edition, display mode, or system-specific release. Examples include EGA, VGA, 16 Color, Enhanced, Tandy, and PCjr. |
 | **Platform** | Hardware platform, operating environment, or boot/runtime type required by the release. Examples include Booter, C64, IBM PC, Win3.1, and Win2.1. |
@@ -29,7 +29,7 @@ All fields except **Name** are optional. Parentheses and square brackets shown i
 ## Image Flags
 
 | Flag | Name | Description |
-|---|---|---|
+|:---|:---|:---|
 | `[!]` | **Verified** | The image is verified from two or more matching dumps, or all sectors in the corresponding flux set report as unmodified. |
 | `[M]` | **Modified** | The image contains one or more modifications. |
 | `[F]` | **Fixed** | Modifications were removed from the image. |
@@ -39,7 +39,7 @@ All fields except **Name** are optional. Parentheses and square brackets shown i
 ## Flux Set Flags
 
 | Flag | Name | Description |
-|---|---|---|
+|:---|:---|:---|
 | `[!]` | **Verified** | The flux set is verified from two or more matching dumps, or all sectors report as unmodified. |
 | `[M]` | **Modified** | One or more sectors have been modified. |
 | `[MW]` | **Modified by Windows** | Modifications appear to have been made by Windows, such as changes to the OEM Name, directory entry created dates, or directory entry last-accessed dates. |
